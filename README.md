@@ -1,7 +1,7 @@
 # Stack calc lab.
 
 \# - comment
-POP - drop last element
+POP - drop last element\n
 PUSH <obj> - push var or number
 PEEK - create var with last value
 ABS - |value|
