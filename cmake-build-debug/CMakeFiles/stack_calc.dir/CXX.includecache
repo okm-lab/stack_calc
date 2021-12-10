@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/u53r/CLionProjects/stack_calc/Actions.cpp
+Actions.h
+/Users/u53r/CLionProjects/stack_calc/Actions.h
+
+/Users/u53r/CLionProjects/stack_calc/Actions.h
+string
+-
+iostream
+-
+sstream
+-
+stack
+-
+map
+-
+SafeInt/SafeInt.hpp
+/Users/u53r/CLionProjects/stack_calc/SafeInt/SafeInt.hpp
+
+/Users/u53r/CLionProjects/stack_calc/SafeInt/SafeInt.hpp
+cstdint
+-
+limits
+-
+type_traits
+-
+cstddef
+-
+cmath
+-
+intrin.h
+-
+assert.h
+-
+stdlib.h
+-
+
